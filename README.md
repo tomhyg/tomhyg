@@ -51,17 +51,17 @@
 
 ### 🏥 [PULSAR - Montre de Monitoring Physiologique](https://github.com/tomhyg/PULSAR)
 **Dispositif médical connecté validé cliniquement**
-- Microcontrôleur ESP32-S3 + capteur PPG MAX86916
-- Validation clinique avec 50+ patients (Clinique Hartmann)
+- Microcontrôleur ESP32-S3/Nordic NRF + capteur PPG 
+- Validation clinique avec 50+ patients 
 - Architecture double : WiFi/AWS + SD card locale
 - Flutter app pour visualisation temps réel
+- Migration Nordic nRF5340 pour industrialisation
 - **Technologies** : C/C++, FreeRTOS, AWS IoT, Flutter, PCB Design
 
 ### 👶 [BABYCAM - Surveillance Intelligente](https://github.com/tomhyg/BABYCAM)
 **Système de surveillance avec traitement d'image embarqué**
 - Détection de mouvement et analyse en temps réel
-- Exploré sur ESP32-CAM, Raspberry Pi 4, CherryPi V3S
-- Migration Nordic nRF5340 pour industrialisation
+- Exploré sur ESP32-CAM, Raspberry Pi 4, CherryPi V3S, ESP32-P4
 - **Technologies** : C++, Python, Computer Vision, BLE, Dart
 
 ### 💤 [TheSleepGuard](https://github.com/tomhyg/TheSleepGuard)
@@ -80,7 +80,7 @@
 - PCB design, firmware embarqué, applications mobiles
 - Incubé à AGORANOV Paris
 
-**Diplômé ESME SUDRIA** - Ingénieur Mécatronique & Biotechnologies
+**Diplômé ESME SUDRIA** - Ingénieur Mécatronique & Embarquée (Spécialité Biotechnologie)
 
 ---
 
