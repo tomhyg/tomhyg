@@ -69,7 +69,7 @@ Dispositif de monitoring du sommeil avec capteurs physiologiques
 **🇫🇷** Freelance disponible pour vos projets de développement logiciel.  
 **🇬🇧** Available for software development projects.
 
-📧 **Email** : xesprit20@gmail.com  
+📧 **Email** : tom.huyghe@orange.fr
 💼 **Malt** : [profil](https://www.malt.fr/profile/tomhuyghe)  
 💼 **LinkedIn** : [Tom Huyghe](https://www.linkedin.com/in/tom-huyghe)
 
